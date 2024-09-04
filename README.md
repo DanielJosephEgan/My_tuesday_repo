@@ -1,1 +1,1 @@
-# tuesday_repo
+# my_tuesday_repo
